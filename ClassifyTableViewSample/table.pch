@@ -1,0 +1,15 @@
+//
+//  table.pch
+//  ClassifyTableViewSample
+//
+//  Created by 周凯丽 on 2017/8/23.
+//  Copyright © 2017年 t. All rights reserved.
+//
+
+#ifndef table_pch
+#define table_pch
+
+#import "UIView+Frame.h"
+
+
+#endif /* table_pch */
